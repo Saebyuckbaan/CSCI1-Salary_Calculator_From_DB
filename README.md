@@ -1,6 +1,7 @@
 CSCI1-Salary_Calculator_From_DB
 ==============================
 
+<b>CSCI1 - Assignment 3: </b>
 Reading data from text file based data base to execute the calculator
 
 
