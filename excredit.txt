@@ -1,0 +1,48 @@
+
+
+**********Bad Data will be Automatically Skip. Please fix your Bad datas.**********
+
+
+
+**************************************************
+Name:                         Joe Smith      
+Gross Salary:                 $6468.75        
+Medical Benefits:             $62.50          
+Retirement Contribution:      5.00%
+          Company:       $343.75    
+          Employee:      $343.75    
+          Total:         $687.50    
+Tax Owed:                     $160.00         
+Net Salary:                   $6308.75        
+**************************************************
+
+
+
+**************************************************
+Name:                         Norm Johnson   
+Gross Salary:                 $947.50         
+Medical Benefits:             $52.50          
+Retirement Contribution:      N/A            
+          Company:       N/A       
+          Employee:      N/A       
+          Total:         N/A       
+Tax Owed:                     $0.00           
+Net Salary:                   $947.50         
+**************************************************
+
+
+
+**************************************************
+Name:                         John Jordan    
+Gross Salary:                 $1125.00        
+Medical Benefits:             $0.00           
+Retirement Contribution:      N/A            
+          Company:       N/A       
+          Employee:      N/A       
+          Total:         N/A       
+Tax Owed:                     $0.00           
+Net Salary:                   $1125.00        
+**************************************************
+
+
+
